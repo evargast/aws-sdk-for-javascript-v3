@@ -30,7 +30,7 @@ npm install --save-dev path-browserify
 
 ## Configuring webpack<a name="webpack-configuring"></a>
 
-By default, Webpack searches for a JavaScript file named `webpack.config.js` in your project's root directory\. This file specifies your configuration options\. The following is an example of a `webpack.config.js` configuration file for WebPack version 5\.0\.0 and later\.
+By default, Webpack searches for a JavaScript file named `webpack.config.js` in your project's root directory\. This file specifies your configuration options\. The following is an example of a `webpack.config.js` configuration file for Webpack version 5\.0\.0 and later\.
 
 **Note**  
 Webpack configuration requirments vary depending on the version of Webpack you install\. For more information, see the [Webpack documentation](https://webpack.js.org/configuration/)\. 
